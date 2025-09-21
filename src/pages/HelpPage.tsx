@@ -11,7 +11,8 @@ import { useNavigate } from "react-router";
 
     return (
         <div>
-            <h1>This is my Help page</h1>
+            <title>Need help?</title>
+            <h1>Get help from this Page</h1>
             <button onClick={goToHome}>
                 Homepage
             </button>
